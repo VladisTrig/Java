@@ -9,6 +9,7 @@ each task in a separate class with own main method
 (b+√(b^2+4ac))/2a-a^3 c+b^(-2)
 5. Calculate the value of the expression using the formula (all variables take real values):
 (sin x+cos y) / (cosx-siny) *tg xy
+
 / package com.belhard.lesson2.branching
 each task in a separate class with own main method
 1. Find max{min(a, b), min(c, d)} - i.e. the maximum value of two expressions, in the first of which we find the significant of the two numbers, and in the next, the significant of the other two. Use only the conditional jump operator or ternary operator. It is forbidden to use Math.max() and Math.min()
